@@ -9,6 +9,7 @@ import java.nio.channels.FileChannel;
 public class MyNIO {
 
 	public static void main(String[] args) {
+		//********哈哈
 		FileInputStream fis = null;
 		FileOutputStream fos = null;
 		FileChannel fic = null;
