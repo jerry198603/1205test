@@ -10,6 +10,7 @@ public class MyNIO {
 
 	public static void main(String[] args) {
 		//********哈哈
+		//test
 		FileInputStream fis = null;
 		FileOutputStream fos = null;
 		FileChannel fic = null;
